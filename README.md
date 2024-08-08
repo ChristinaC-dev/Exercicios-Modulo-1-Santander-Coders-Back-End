@@ -52,5 +52,16 @@ Exemplo de entrada: [1,50,6][55,100,2][20,7,9]
 
 Saída: O maior elemento da matriz é: 100
 
+________________________________________________________________________________________________________________________________________
+
+## Exercício 8
+
+Escreva um programa Java que declara uma matriz 3x3 e pede ao usuário para informar seus valores. Em seguida mostre todos os valores da matriz e a soma dos elementos da diagonal principal. Sua saída deverá ser parecida com a abaixo:
+
+1 2 3 
+4 5 6 
+7 8 9
+
+Os valores da diagonal principal são 1, 5, 9 e a soma é: 15
 
 __________________________________________________________________________________________________________________________________________
