@@ -32,7 +32,10 @@ ________________________________________________________________________________
 
 ## Exercicio 5 <h2>
 
-Crie um enum chamado UnidadeTemperatura representando unidades de temperatura (CELSIUS, FAHRENHEIT, KELVIN).Escreva um programa que utiliza um Scanner para obter a unidade de temperatura atual do usuário e a unidade desejada, pedindo a temperatura atual e imprimindo a temperatura convertida.CELSIUS: F -> (celsius * 9 / 5) + 32 K -> celsius + 273.15FAHRENHEIT: C -> (fehrenheit - 32) * 5 / 9 k -> (fehrenheit + 459.67) * 5 / 9OBS: Utilizar Enum com metodos abstratos (desafio).
+Crie um enum chamado UnidadeTemperatura representando unidades de temperatura (CELSIUS, FAHRENHEIT, KELVIN). Escreva um programa que utiliza um Scanner para obter a unidade de temperatura atual do usuário e a unidade desejada, pedindo a temperatura atual e imprimindo a temperatura convertida. 
+CELSIUS: F -> (celsius * 9 / 5) + 32 K -> celsius + 273.15. 
+FAHRENHEIT: C -> (fahrenheit - 32) * 5 / 9 K -> (fahrenheit + 459.67) * 5 / 9.
+OBS: Utilizar Enum com metodos abstratos (desafio).
 
 ______________________________________________________________________________________________________________________________________
 
