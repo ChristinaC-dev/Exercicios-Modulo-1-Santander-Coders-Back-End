@@ -32,6 +32,7 @@ public class Exercicio7 {
             for (int j = 0; j < colunas; j++) {
                 if (matriz[i][j] > maiorNumero) {
                     maiorNumero = matriz[i][j];
+                        maiorNumero = matriz[i][j];
                 }
             }
         }
